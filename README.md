@@ -2,15 +2,6 @@
 
 WebServ is a simple web server implemented in C++. It supports basic HTTP functionalities including GET, POST, and DELETE requests, directory listing, and CGI execution.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repository:
